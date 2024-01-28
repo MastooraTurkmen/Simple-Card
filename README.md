@@ -1,4 +1,6 @@
-# Simple Layout Project
+# Simple Card Layout Project
+
+A very simple project made by CSS and HTML. 
 
 ![Alt text](./screenshots/image.png)
 
